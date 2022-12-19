@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.week3.selenium.CheckBoxRadioButtonTest"/>
+      <class name="com.week3.selenium.Gmail"/>
+      <class name="com.week3.selenium.LearningSeleniumMethods"/>
+      <class name="com.week3.selenium.SeleniumMethods2"/>
+      <class name="com.week3.selenium.StaticDropdown"/>
+      <class name="com.week3.selenium.expediaTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
